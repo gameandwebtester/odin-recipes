@@ -1,0 +1,22 @@
+li {
+    color: aqua;
+    text-align: center;
+    font-weight: 800;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+p,
+.center {
+    font-weight: 800;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+ 
+a {
+    text-align: center;
+}
